@@ -1,6 +1,6 @@
 #README
 
-<h1 align="center"> Cronometro </h1>
+<h1 align="center">Cronômetro  </h1>
 
 <p align="center">
 <a href="#sobre">Sobre</a>
