@@ -10,8 +10,10 @@
 
 <br>
 
+<h2 id="#sobre"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji>SOBRE </h2>
 
-<h4 align="center">
-<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Projeto README em construção ... 
 
-</h4>
+<p>O cronômetro conta em milésimos de segundo o tempo passado após você clicar no botão "Iniciar".  </p>
+<br>
+<br>
+
